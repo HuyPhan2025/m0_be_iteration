@@ -1,6 +1,6 @@
 # Self Evaluation
 
-- How confident do you feel in your understanding and fluency with the `each` method?
-- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle?
-- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?
-- What questions do you still have? How will you get the answers you need?
+- How confident do you feel in your understanding and fluency with the `each` method? I'm not very confident yet but understand a lot better after going through productive struggle.
+- This was a much more advanced concept than anything you've done in Mod 0, and the exercises required you to push yourself to apply other background knowledge or learn things outside of the curriculum - how did that feel? Did you have productive struggle? Unproductive struggle? I feel pretty tired but also happy I finally figured it out. I did a lot of unproductive struggle in this part because I was trying to make up time. After I reach out for help the advance helped me remember what I learned and push me to finish my lesson. 
+- What do you still need to practice or learn? How will you do that? Do you need to adjust your calendar in order to do that?  I need to practice more with using all my learning together to complete me lesson and also to get better at seaching up google for information I needs.  I again need to modify my calender since I did not reach any time goals today.
+- What questions do you still have? How will you get the answers you need? There are too many questions that I don't even know where to begin so now all I'm thinking about is practicing more and ask more questions from my support group.  
